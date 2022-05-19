@@ -1,0 +1,23 @@
+1. Vertices: Vertices are the nodes of the graph.
+2. Edge: The lines that connect the vertices together.
+3. Unweighted graph: A graph which doesn't have a weight associated with any edge.
+4. Weighted graph: A graph which has a weight associated with all edges.
+5. Undirected Graph: In case the edges of the graph do not have a direction associated with them.
+6. Directed Graph: In case the edges of the graph do have a direction associated to each of them.
+7. Cyclic Graph: If there is even one loop in the graph, it is called Cyclic Graph.
+8. Acyclic Graph: If there is no loop in the graph.
+9. Tree: A special case of directed acyclic graph.
+
+Graph types:-
+1. Directed: Weighted(positive and negative) and Unweighted.
+2. Undirected: Weighted(positive and negative) and Unweighted.
+
+A. Unweighted-Undirected Graph: No weights on edges and No direction between vertices.
+B. Unweighted-Directed Graph: No weights on edges but direction is available between vertices.
+C. Positive-Weighted-Undirected Graph: Positive Weights on the edges but no direction is available between vertices.
+D. Positive-Weighted-Directed Graphs: Positive Weights on the edges and direction is available between vertices.
+E. Negative-Weighted-Undirected Graph: Negative Weights on the edges but no direction is available between vertices.
+F. Negative-Weighted-Directed Graphs: Negative Weights on the edges and direction is available between vertices.
+
+
+Adjacency Matrix: It is a square matrix or a 2D array and the elements of the matrix indicate whether pairs of vertices are adjacent or not in the graph.
